@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer", "DesignPatterns\Observer.csproj", "{3415F55A-CABC-4B80-83BA-8D11D2632917}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{FEB9C09B-5A4E-4E3F-9B3C-10D40F74E400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{B8798EEE-2635-4BEC-8CD3-68C159DE5541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3415F55A-CABC-4B80-83BA-8D11D2632917}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3415F55A-CABC-4B80-83BA-8D11D2632917}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3415F55A-CABC-4B80-83BA-8D11D2632917}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3415F55A-CABC-4B80-83BA-8D11D2632917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB9C09B-5A4E-4E3F-9B3C-10D40F74E400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB9C09B-5A4E-4E3F-9B3C-10D40F74E400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB9C09B-5A4E-4E3F-9B3C-10D40F74E400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB9C09B-5A4E-4E3F-9B3C-10D40F74E400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8798EEE-2635-4BEC-8CD3-68C159DE5541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8798EEE-2635-4BEC-8CD3-68C159DE5541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8798EEE-2635-4BEC-8CD3-68C159DE5541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8798EEE-2635-4BEC-8CD3-68C159DE5541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {219F96AA-0DAC-4ACC-873F-7F6D9AA2E817}
+	EndGlobalSection
+EndGlobal
