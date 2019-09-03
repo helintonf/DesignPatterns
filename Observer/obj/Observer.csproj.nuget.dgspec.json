@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\DesignPatterns\\DesignPatterns\\Observer.csproj": {}
+    "C:\\Labs\\DesignPatterns\\Observer\\Observer.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\DesignPatterns\\DesignPatterns\\Observer.csproj": {
+    "C:\\Labs\\DesignPatterns\\Observer\\Observer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\DesignPatterns\\DesignPatterns\\Observer.csproj",
+        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Observer\\Observer.csproj",
         "projectName": "Observer",
-        "projectPath": "C:\\Labs\\DesignPatterns\\DesignPatterns\\Observer.csproj",
+        "projectPath": "C:\\Labs\\DesignPatterns\\Observer\\Observer.csproj",
         "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\DesignPatterns\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Labs\\DesignPatterns\\Observer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
