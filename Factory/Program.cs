@@ -2,11 +2,20 @@
 
 namespace Factory
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Pizza World!");
+
+            var nyStore = new NYPizzaStore();
+            var chicagoStore = new ChicagoPizzaStore();
+
+            Pizza pizza = nyStore.Order("cheese");
+            Console.WriteLine($"Helinton ordered a {pizza.Name}");
+
+            pizza = chicagoStore.Order("cheese");
+            Console.WriteLine($"Helinton ordered a {pizza.Name}");
         }
     }
 }
