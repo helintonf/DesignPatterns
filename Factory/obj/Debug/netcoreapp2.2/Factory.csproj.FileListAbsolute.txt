@@ -1,3 +1,4 @@
+C:\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.csprojAssemblyReference.cache
 C:\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.AssemblyInfo.cs

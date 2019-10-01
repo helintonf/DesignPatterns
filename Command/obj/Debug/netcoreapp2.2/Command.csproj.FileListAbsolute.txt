@@ -3,9 +3,9 @@ C:\Labs\DesignPatterns\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.jso
 C:\Labs\DesignPatterns\Command\bin\Debug\netcoreapp2.2\Command.runtimeconfig.dev.json
 C:\Labs\DesignPatterns\Command\bin\Debug\netcoreapp2.2\Command.dll
 C:\Labs\DesignPatterns\Command\bin\Debug\netcoreapp2.2\Command.pdb
+C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.csprojAssemblyReference.cache
 C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.dll
 C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.pdb
-C:\Labs\DesignPatterns\Command\obj\Debug\netcoreapp2.2\Command.csprojAssemblyReference.cache
