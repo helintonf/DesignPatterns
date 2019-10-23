@@ -1,0 +1,10 @@
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorCollection.csprojAssemblyReference.cache
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorCollection.AssemblyInfoInputs.cache
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorCollection.AssemblyInfo.cs
+C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorCollection.deps.json
+C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorCollection.runtimeconfig.json
+C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorCollection.runtimeconfig.dev.json
+C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorCollection.dll
+C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorCollection.pdb
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorCollection.dll
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorCollection.pdb
