@@ -4,7 +4,6 @@ C:\Labs\DesignPatterns\Decorator\bin\Debug\netcoreapp2.2\Decorator.runtimeconfig
 C:\Labs\DesignPatterns\Decorator\bin\Debug\netcoreapp2.2\Decorator.dll
 C:\Labs\DesignPatterns\Decorator\bin\Debug\netcoreapp2.2\Decorator.pdb
 C:\Labs\DesignPatterns\Decorator\obj\Debug\netcoreapp2.2\Decorator.csprojAssemblyReference.cache
-C:\Labs\DesignPatterns\Decorator\obj\Debug\netcoreapp2.2\Decorator.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Decorator\obj\Debug\netcoreapp2.2\Decorator.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Decorator\obj\Debug\netcoreapp2.2\Decorator.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Decorator\obj\Debug\netcoreapp2.2\Decorator.dll

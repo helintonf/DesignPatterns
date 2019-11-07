@@ -4,7 +4,6 @@ C:\Labs\DesignPatterns\Estrategia\bin\Debug\netcoreapp2.2\Estrategia.runtimeconf
 C:\Labs\DesignPatterns\Estrategia\bin\Debug\netcoreapp2.2\Estrategia.dll
 C:\Labs\DesignPatterns\Estrategia\bin\Debug\netcoreapp2.2\Estrategia.pdb
 C:\Labs\DesignPatterns\Estrategia\obj\Debug\netcoreapp2.2\Estrategia.csprojAssemblyReference.cache
-C:\Labs\DesignPatterns\Estrategia\obj\Debug\netcoreapp2.2\Estrategia.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Estrategia\obj\Debug\netcoreapp2.2\Estrategia.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Estrategia\obj\Debug\netcoreapp2.2\Estrategia.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Estrategia\obj\Debug\netcoreapp2.2\Estrategia.dll

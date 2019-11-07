@@ -3,7 +3,7 @@ C:\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.runtimeconfig.j
 C:\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.runtimeconfig.dev.json
 C:\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.dll
 C:\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.pdb
-C:\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.csproj.CoreCompileInputs.cache
+C:\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.csprojAssemblyReference.cache
 C:\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.dll

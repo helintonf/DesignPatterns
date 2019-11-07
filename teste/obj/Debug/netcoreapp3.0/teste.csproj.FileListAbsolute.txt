@@ -1,0 +1,11 @@
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.exe
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.deps.json
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.runtimeconfig.json
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.runtimeconfig.dev.json
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.dll
+C:\Labs\DesignPatterns\teste\bin\Debug\netcoreapp3.0\teste.pdb
+C:\Labs\DesignPatterns\teste\obj\Debug\netcoreapp3.0\teste.csprojAssemblyReference.cache
+C:\Labs\DesignPatterns\teste\obj\Debug\netcoreapp3.0\teste.AssemblyInfoInputs.cache
+C:\Labs\DesignPatterns\teste\obj\Debug\netcoreapp3.0\teste.AssemblyInfo.cs
+C:\Labs\DesignPatterns\teste\obj\Debug\netcoreapp3.0\teste.dll
+C:\Labs\DesignPatterns\teste\obj\Debug\netcoreapp3.0\teste.pdb

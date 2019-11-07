@@ -23,6 +23,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gabarito", "Gabarito\Gabari
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteratorComposto", "Collection\InteratorComposto.csproj", "{2D385AA7-9CBD-49EC-8399-166E270D8370}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estado", "Estado\Estado.csproj", "{CA658216-3649-4835-953C-BA68892679E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste", "teste\teste.csproj", "{7D31793B-9AAB-48C4-9E46-7228CA28F280}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{2D385AA7-9CBD-49EC-8399-166E270D8370}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D385AA7-9CBD-49EC-8399-166E270D8370}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D385AA7-9CBD-49EC-8399-166E270D8370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA658216-3649-4835-953C-BA68892679E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA658216-3649-4835-953C-BA68892679E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA658216-3649-4835-953C-BA68892679E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA658216-3649-4835-953C-BA68892679E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

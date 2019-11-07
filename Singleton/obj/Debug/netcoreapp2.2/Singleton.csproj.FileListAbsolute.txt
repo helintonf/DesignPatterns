@@ -4,7 +4,6 @@ C:\Labs\DesignPatterns\Singleton\bin\Debug\netcoreapp2.2\Singleton.runtimeconfig
 C:\Labs\DesignPatterns\Singleton\bin\Debug\netcoreapp2.2\Singleton.dll
 C:\Labs\DesignPatterns\Singleton\bin\Debug\netcoreapp2.2\Singleton.pdb
 C:\Labs\DesignPatterns\Singleton\obj\Debug\netcoreapp2.2\Singleton.csprojAssemblyReference.cache
-C:\Labs\DesignPatterns\Singleton\obj\Debug\netcoreapp2.2\Singleton.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Singleton\obj\Debug\netcoreapp2.2\Singleton.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Singleton\obj\Debug\netcoreapp2.2\Singleton.dll

@@ -4,7 +4,6 @@ C:\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.dev
 C:\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.dll
 C:\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.pdb
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.csprojAssemblyReference.cache
-C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.csproj.CoreCompileInputs.cache
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInputs.cache
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.dll

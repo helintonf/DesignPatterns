@@ -1,0 +1,11 @@
+C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.csprojAssemblyReference.cache
+C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.AssemblyInfoInputs.cache
+C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.AssemblyInfo.cs
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.exe
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.deps.json
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.runtimeconfig.json
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.runtimeconfig.dev.json
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.dll
+C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.pdb
+C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.dll
+C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.pdb

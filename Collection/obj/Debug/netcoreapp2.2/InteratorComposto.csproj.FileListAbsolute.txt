@@ -1,10 +1,9 @@
-C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.csprojAssemblyReference.cache
-C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfoInputs.cache
-C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.deps.json
 C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.runtimeconfig.json
 C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.runtimeconfig.dev.json
 C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.dll
 C:\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.pdb
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfoInputs.cache
+C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.dll
 C:\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.pdb
