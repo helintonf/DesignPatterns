@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InteratorComposto", "Collec
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Estado", "Estado\Estado.csproj", "{CA658216-3649-4835-953C-BA68892679E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste", "teste\teste.csproj", "{7D31793B-9AAB-48C4-9E46-7228CA28F280}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "teste", "teste\teste.csproj", "{7D31793B-9AAB-48C4-9E46-7228CA28F280}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{4A4FEB72-16A6-4686-8A3D-DA462681FA8A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D31793B-9AAB-48C4-9E46-7228CA28F280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4FEB72-16A6-4686-8A3D-DA462681FA8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4FEB72-16A6-4686-8A3D-DA462681FA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4FEB72-16A6-4686-8A3D-DA462681FA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4FEB72-16A6-4686-8A3D-DA462681FA8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
