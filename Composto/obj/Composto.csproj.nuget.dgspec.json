@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {}
+    "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {
+    "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
-        "projectName": "InteratorComposto",
-        "projectPath": "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
+        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
+        "projectName": "Composto",
+        "projectPath": "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
         "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\DesignPatterns\\Collection\\obj\\",
+        "outputPath": "C:\\Labs\\DesignPatterns\\Composto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,14 +21,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.0": {
           "imports": [
             "net461",
             "net462",
@@ -58,6 +50,29 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
