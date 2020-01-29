@@ -2,7 +2,7 @@
 
 namespace Composto
 {
-    internal class ReadDuck : IQuackable
+    internal class RedheadDuck : IQuackable
     {
         public void Quack()
         {

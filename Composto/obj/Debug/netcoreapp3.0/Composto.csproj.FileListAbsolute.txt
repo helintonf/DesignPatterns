@@ -1,0 +1,11 @@
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.exe
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.deps.json
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.runtimeconfig.json
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.runtimeconfig.dev.json
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.dll
+C:\Labs\DesignPatterns\Composto\bin\Debug\netcoreapp3.0\Composto.pdb
+C:\Labs\DesignPatterns\Composto\obj\Debug\netcoreapp3.0\Composto.csprojAssemblyReference.cache
+C:\Labs\DesignPatterns\Composto\obj\Debug\netcoreapp3.0\Composto.AssemblyInfoInputs.cache
+C:\Labs\DesignPatterns\Composto\obj\Debug\netcoreapp3.0\Composto.AssemblyInfo.cs
+C:\Labs\DesignPatterns\Composto\obj\Debug\netcoreapp3.0\Composto.dll
+C:\Labs\DesignPatterns\Composto\obj\Debug\netcoreapp3.0\Composto.pdb
