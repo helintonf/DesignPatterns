@@ -21,13 +21,36 @@ namespace Composto
             IQuackable duckRubberDuck = duckFactory.CreateRubberDuck();
             IQuackable gooseDuck = new GooseAdapter(new Goose());
 
-            Console.WriteLine($"Duck Simulator");
+            Console.WriteLine($"Duck Simulator: With Composite - Flocks");
 
-            Simulate(mallardDuck);
-            Simulate(readheadDuck);
-            Simulate(duckCall);
-            Simulate(duckRubberDuck);
-            Simulate(gooseDuck);
+            Flock flockOfDucks = new Flock();
+
+            flockOfDucks.Quackers.Add(readheadDuck);
+            flockOfDucks.Quackers.Add(duckCall);
+            flockOfDucks.Quackers.Add(duckRubberDuck);
+            flockOfDucks.Quackers.Add(gooseDuck);
+
+            Flock flockOfMallards = new Flock();
+
+            IQuackable mallardDuckOne = duckFactory.CreateMallardDuck();
+            IQuackable mallardDuckTwo = duckFactory.CreateMallardDuck();
+            IQuackable mallardDuckThree = duckFactory.CreateMallardDuck();
+            IQuackable mallardDuckFour = duckFactory.CreateMallardDuck();
+
+            flockOfMallards.Quackers.Add(mallardDuckOne);
+            flockOfMallards.Quackers.Add(mallardDuckTwo);
+            flockOfMallards.Quackers.Add(mallardDuckThree);
+            flockOfMallards.Quackers.Add(mallardDuckFour);
+
+            flockOfDucks.Quackers.Add(flockOfMallards);
+
+            Console.WriteLine($"Duck Simulator: Whole Flock Simulation");
+
+            Simulate(flockOfDucks);
+
+            Console.WriteLine($"Duck Simulator: Mallard Flock Simulation");
+
+            Simulate(flockOfMallards);
 
             Console.WriteLine($"The ducks quacked {QuackCounter.NumberOfQuacks} times");
         }
