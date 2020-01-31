@@ -1,6 +1,6 @@
 ﻿namespace Composto
 {
-    public interface IQuackable
+    public interface IQuackable : IQuackObservable
     {
         void Quack();
     }
