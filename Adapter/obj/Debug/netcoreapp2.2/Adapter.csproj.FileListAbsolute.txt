@@ -1,0 +1,10 @@
+E:\helin\Labs\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.deps.json
+E:\helin\Labs\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.json
+E:\helin\Labs\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.runtimeconfig.dev.json
+E:\helin\Labs\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.dll
+E:\helin\Labs\DesignPatterns\Adapter\bin\Debug\netcoreapp2.2\Adapter.pdb
+E:\helin\Labs\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.csprojAssemblyReference.cache
+E:\helin\Labs\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.AssemblyInfo.cs
+E:\helin\Labs\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.dll
+E:\helin\Labs\DesignPatterns\Adapter\obj\Debug\netcoreapp2.2\Adapter.pdb

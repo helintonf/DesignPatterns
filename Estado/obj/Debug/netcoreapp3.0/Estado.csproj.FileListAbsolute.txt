@@ -9,3 +9,14 @@ C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.dll
 C:\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.pdb
 C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.dll
 C:\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.pdb
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.exe
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.deps.json
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.runtimeconfig.json
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.runtimeconfig.dev.json
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.dll
+E:\helin\Labs\DesignPatterns\Estado\bin\Debug\netcoreapp3.0\Estado.pdb
+E:\helin\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.csprojAssemblyReference.cache
+E:\helin\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.AssemblyInfo.cs
+E:\helin\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.dll
+E:\helin\Labs\DesignPatterns\Estado\obj\Debug\netcoreapp3.0\Estado.pdb

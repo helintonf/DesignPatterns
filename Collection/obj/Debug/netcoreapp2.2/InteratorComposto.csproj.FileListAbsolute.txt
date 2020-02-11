@@ -1,0 +1,10 @@
+E:\helin\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.deps.json
+E:\helin\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.runtimeconfig.json
+E:\helin\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.runtimeconfig.dev.json
+E:\helin\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.dll
+E:\helin\Labs\DesignPatterns\Collection\bin\Debug\netcoreapp2.2\InteratorComposto.pdb
+E:\helin\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.csprojAssemblyReference.cache
+E:\helin\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.AssemblyInfo.cs
+E:\helin\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.dll
+E:\helin\Labs\DesignPatterns\Collection\obj\Debug\netcoreapp2.2\InteratorComposto.pdb

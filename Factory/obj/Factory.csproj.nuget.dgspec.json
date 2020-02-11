@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\DesignPatterns\\Factory\\Factory.csproj": {}
+    "E:\\helin\\Labs\\DesignPatterns\\Factory\\Factory.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\DesignPatterns\\Factory\\Factory.csproj": {
+    "E:\\helin\\Labs\\DesignPatterns\\Factory\\Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Factory\\Factory.csproj",
+        "projectUniqueName": "E:\\helin\\Labs\\DesignPatterns\\Factory\\Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "C:\\Labs\\DesignPatterns\\Factory\\Factory.csproj",
-        "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\DesignPatterns\\Factory\\obj\\",
+        "projectPath": "E:\\helin\\Labs\\DesignPatterns\\Factory\\Factory.csproj",
+        "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
+        "outputPath": "E:\\helin\\Labs\\DesignPatterns\\Factory\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\helinton.fioramonte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,0 +1,2 @@
+E:\helin\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Factory\obj\Debug\netcoreapp2.2\Factory.AssemblyInfo.cs

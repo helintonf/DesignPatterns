@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\helin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
+      "projectUniqueName": "E:\\helin\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
       "projectName": "Composto",
-      "projectPath": "C:\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
-      "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-      "outputPath": "C:\\Labs\\DesignPatterns\\Composto\\obj\\",
+      "projectPath": "E:\\helin\\Labs\\DesignPatterns\\Composto\\Composto.csproj",
+      "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
+      "outputPath": "E:\\helin\\Labs\\DesignPatterns\\Composto\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\helinton.fioramonte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

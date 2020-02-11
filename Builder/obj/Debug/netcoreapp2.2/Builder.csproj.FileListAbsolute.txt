@@ -8,3 +8,13 @@ C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInput
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.dll
 C:\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.pdb
+E:\helin\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.deps.json
+E:\helin\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.json
+E:\helin\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.dev.json
+E:\helin\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.dll
+E:\helin\Labs\DesignPatterns\Builder\bin\Debug\netcoreapp2.2\Builder.pdb
+E:\helin\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.csprojAssemblyReference.cache
+E:\helin\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
+E:\helin\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.dll
+E:\helin\Labs\DesignPatterns\Builder\obj\Debug\netcoreapp2.2\Builder.pdb

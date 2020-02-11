@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {}
+    "E:\\helin\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {
+    "E:\\helin\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
+        "projectUniqueName": "E:\\helin\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
         "projectName": "InteratorComposto",
-        "projectPath": "C:\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
-        "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\DesignPatterns\\Collection\\obj\\",
+        "projectPath": "E:\\helin\\Labs\\DesignPatterns\\Collection\\InteratorComposto.csproj",
+        "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
+        "outputPath": "E:\\helin\\Labs\\DesignPatterns\\Collection\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\helinton.fioramonte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

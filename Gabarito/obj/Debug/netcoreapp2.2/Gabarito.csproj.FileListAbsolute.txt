@@ -1,0 +1,10 @@
+E:\helin\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.deps.json
+E:\helin\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.runtimeconfig.json
+E:\helin\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.runtimeconfig.dev.json
+E:\helin\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.dll
+E:\helin\Labs\DesignPatterns\Gabarito\bin\Debug\netcoreapp2.2\Gabarito.pdb
+E:\helin\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.csprojAssemblyReference.cache
+E:\helin\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.AssemblyInfoInputs.cache
+E:\helin\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.AssemblyInfo.cs
+E:\helin\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.dll
+E:\helin\Labs\DesignPatterns\Gabarito\obj\Debug\netcoreapp2.2\Gabarito.pdb

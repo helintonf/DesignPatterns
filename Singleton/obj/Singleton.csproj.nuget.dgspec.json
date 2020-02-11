@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj": {}
+    "E:\\helin\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj": {
+    "E:\\helin\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\helin\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "C:\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj",
-        "packagesPath": "C:\\Users\\helinton.fioramonte\\.nuget\\packages\\",
-        "outputPath": "C:\\Labs\\DesignPatterns\\Singleton\\obj\\",
+        "projectPath": "E:\\helin\\Labs\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "packagesPath": "C:\\Users\\helin\\.nuget\\packages\\",
+        "outputPath": "E:\\helin\\Labs\\DesignPatterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\helinton.fioramonte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\helin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
